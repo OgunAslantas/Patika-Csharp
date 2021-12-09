@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\Pratik\degisken\bin\Debug\net5.0\degisken.exe
+C:\Users\hp\Desktop\Pratik\degisken\bin\Debug\net5.0\degisken.deps.json
+C:\Users\hp\Desktop\Pratik\degisken\bin\Debug\net5.0\degisken.runtimeconfig.json
+C:\Users\hp\Desktop\Pratik\degisken\bin\Debug\net5.0\degisken.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Pratik\degisken\bin\Debug\net5.0\degisken.dll
+C:\Users\hp\Desktop\Pratik\degisken\bin\Debug\net5.0\ref\degisken.dll
+C:\Users\hp\Desktop\Pratik\degisken\bin\Debug\net5.0\degisken.pdb
+C:\Users\hp\Desktop\Pratik\degisken\obj\Debug\net5.0\degisken.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Pratik\degisken\obj\Debug\net5.0\degisken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Pratik\degisken\obj\Debug\net5.0\degisken.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Pratik\degisken\obj\Debug\net5.0\degisken.AssemblyInfo.cs
+C:\Users\hp\Desktop\Pratik\degisken\obj\Debug\net5.0\degisken.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Pratik\degisken\obj\Debug\net5.0\degisken.dll
+C:\Users\hp\Desktop\Pratik\degisken\obj\Debug\net5.0\ref\degisken.dll
+C:\Users\hp\Desktop\Pratik\degisken\obj\Debug\net5.0\degisken.pdb
+C:\Users\hp\Desktop\Pratik\degisken\obj\Debug\net5.0\degisken.genruntimeconfig.cache
