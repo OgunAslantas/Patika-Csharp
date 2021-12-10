@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\Pratik\tip-donusumleri\bin\Debug\net5.0\tip-donusumleri.exe
+C:\Users\hp\Desktop\Pratik\tip-donusumleri\bin\Debug\net5.0\tip-donusumleri.deps.json
+C:\Users\hp\Desktop\Pratik\tip-donusumleri\bin\Debug\net5.0\tip-donusumleri.runtimeconfig.json
+C:\Users\hp\Desktop\Pratik\tip-donusumleri\bin\Debug\net5.0\tip-donusumleri.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Pratik\tip-donusumleri\bin\Debug\net5.0\tip-donusumleri.dll
+C:\Users\hp\Desktop\Pratik\tip-donusumleri\bin\Debug\net5.0\ref\tip-donusumleri.dll
+C:\Users\hp\Desktop\Pratik\tip-donusumleri\bin\Debug\net5.0\tip-donusumleri.pdb
+C:\Users\hp\Desktop\Pratik\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Pratik\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Pratik\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Pratik\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.AssemblyInfo.cs
+C:\Users\hp\Desktop\Pratik\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Pratik\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.dll
+C:\Users\hp\Desktop\Pratik\tip-donusumleri\obj\Debug\net5.0\ref\tip-donusumleri.dll
+C:\Users\hp\Desktop\Pratik\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.pdb
+C:\Users\hp\Desktop\Pratik\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.genruntimeconfig.cache
