@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\Pratik\dongu-while\bin\Debug\net5.0\dongu-while.exe
+C:\Users\hp\Desktop\Pratik\dongu-while\bin\Debug\net5.0\dongu-while.deps.json
+C:\Users\hp\Desktop\Pratik\dongu-while\bin\Debug\net5.0\dongu-while.runtimeconfig.json
+C:\Users\hp\Desktop\Pratik\dongu-while\bin\Debug\net5.0\dongu-while.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Pratik\dongu-while\bin\Debug\net5.0\dongu-while.dll
+C:\Users\hp\Desktop\Pratik\dongu-while\bin\Debug\net5.0\ref\dongu-while.dll
+C:\Users\hp\Desktop\Pratik\dongu-while\bin\Debug\net5.0\dongu-while.pdb
+C:\Users\hp\Desktop\Pratik\dongu-while\obj\Debug\net5.0\dongu-while.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Pratik\dongu-while\obj\Debug\net5.0\dongu-while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Pratik\dongu-while\obj\Debug\net5.0\dongu-while.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Pratik\dongu-while\obj\Debug\net5.0\dongu-while.AssemblyInfo.cs
+C:\Users\hp\Desktop\Pratik\dongu-while\obj\Debug\net5.0\dongu-while.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Pratik\dongu-while\obj\Debug\net5.0\dongu-while.dll
+C:\Users\hp\Desktop\Pratik\dongu-while\obj\Debug\net5.0\ref\dongu-while.dll
+C:\Users\hp\Desktop\Pratik\dongu-while\obj\Debug\net5.0\dongu-while.pdb
+C:\Users\hp\Desktop\Pratik\dongu-while\obj\Debug\net5.0\dongu-while.genruntimeconfig.cache
